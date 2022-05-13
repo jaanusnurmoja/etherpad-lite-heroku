@@ -6,8 +6,8 @@
   "ip": "0.0.0.0",
   "port": 9001,
   "ssl": {
-    "key": "/PATH/TO/CHECKOUT/citizenos-api/config/certs/dev.p.citizenos.com.key",
-    "cert": "/PATH/TO/CHECKOUT/citizenos-api/config/certs/dev.p.citizenos.com.crt"
+    "key": "/citizenos-api/config/certs/dev.p.citizenos.com.key",
+    "cert": "/citizenos-api/config/certs/dev.p.citizenos.com.crt"
   },
   "dbType": "postgres",
   "dbSettings": "postgres://etherpad:etherpad@localhost:5432/etherpad",
